@@ -51,7 +51,7 @@ TO THE MAXIMUM EXTENT PERMITTED BY LAW, WORDSUM AND ITS DEVELOPERS SHALL NOT BE 
 
 ## Data and Privacy
 
-Your use of the App is also governed by our Privacy Policy, available at [https://borbolecompanies.github.io/wordsum-ios/privacy](https://borbolecompanies.github.io/wordsum-ios/privacy). Game data is stored locally on your device. We do not collect, store, or sell personal information.
+Your use of the App is also governed by our Privacy Policy, available at [https://borbolecompanies.github.io/WordSumApp/privacy](https://borbolecompanies.github.io/WordSumApp/privacy). Game data is stored locally on your device. We do not collect, store, or sell personal information.
 
 ## Termination
 
